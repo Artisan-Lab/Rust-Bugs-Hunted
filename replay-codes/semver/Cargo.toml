@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "replay_semver-1",
+]

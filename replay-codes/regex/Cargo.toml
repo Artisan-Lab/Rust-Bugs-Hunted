@@ -1,0 +1,13 @@
+[workspace]
+members = [
+    "replay_regex-43-51",
+    "replay_regex-8-56",
+    "replay_regex-16-51",
+    "replay_regex-7-548",
+    "replay_regex-31-546",
+    "replay_regex-44-457",
+    "replay_regex-15-40",
+    "replay_regex-61-10",
+    "replay_regex-32-556",
+    "replay_regex-0-2",
+]

@@ -1,0 +1,8 @@
+[workspace]
+members = [
+	"replay_url40",
+	"replay_url47-8",
+	"replay_url42-5",
+	"replay_url1-13",
+	"replay_url2-73",
+]

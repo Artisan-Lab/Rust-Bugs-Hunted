@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "replay_tui-0-3",
+    "replay_tui-27-9",
+    "replay_tui-21-3",
+    "replay_tui-22-7",
+    "replay_tui-20-3",
+]

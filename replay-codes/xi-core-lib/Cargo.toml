@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "replay_xi_core_lib23-2",
+    "replay_xi_core_lib43-2",
+    "replay_xi_core_lib3-6",
+    "replay_xi_core_lib13-2",
+    "replay_xi_core_lib17-7",
+    "replay_xi_core_lib16-3",
+    "replay_xi_core_lib18-9",
+    "replay_xi_core_lib4-2",
+]

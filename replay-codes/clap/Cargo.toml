@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "replay_clap20-2",
+    "replay_clap26-20",
+    "replay_clap0-1",
+    "replay_clap25-48",
+]
