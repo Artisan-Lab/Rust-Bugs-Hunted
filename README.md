@@ -1,4 +1,4 @@
-| Date | Project | Link | Finder | Status | Description | 
+| Date | Project | Link | Finder | Status | Description |
 |---------|---------|---------|---------|---------|---------|
 | 2020-12-2 | url | [issue/654](https://github.com/servo/rust-url/issues/654) | Jiang, Jianfeng (Steven) | fixed | slicing error |
 | 2020-12-4 | url | [issue/656](https://github.com/servo/rust-url/issues/656) | Jiang, Jianfeng (Steven) | fixed | out of index |
@@ -10,10 +10,11 @@
 | 2021-1-10 | regex | [issue/738](https://github.com/rust-lang/regex/issues/738) | Jiang, Jianfeng (Steven) | confirmed | 10 bugs |
 | 2021-1-24 | time | [issue/309](https://github.com/time-rs/time/issues/309) | Jiang, Jianfeng (Steven) | fixed | 7 bugs |
 | 2021-1-11 | wasm-gb | [issue/2](https://github.com/andrewimm/wasm-gb/issues/2) | Mohan Cui | submitted | double free if panic |
-| 2021-1-12 | nonblockinghashmap | [issue/8](https://github.com/rlei/nonblockinghashmap/issues/8) | Chengjun Chen | submitted | double free if panic |
 | 2021-1-27 | cs451_project5-6 | [issue/1](https://github.com/tylrg/cs451_project5-6/issues/1) | Chengjun Chen | submitted | dangling pointer |
 | 2021-1-27 | mongo-leaf | [issue/1](https://github.com/cajun/mongo-leaf/issues/1) | Chengjun Chen | submitted | double free if panic |
 | 2021-1-12 | rust_examples | [issue/1](https://github.com/planet0104/rust_examples/issues/1) | Chengjun Chen | submitted | double free if panic |
 | 2021-2-14 | teraflops | [issue/1](https://github.com/AGanyushkin/teraflops/issues/1) | Chengjun Chen | submitted | double free if panic |
 | 2021-2-14 | rs_teardown_tree | [issue/2](https://github.com/kirillkh/rs_teardown_tree/issues/2) | Chengjun Chen | submitted | double free if panic |
-| 2021-1-12 | rust_poker | [issule/1](https://github.com/kmurf1999/rust_poker/issues/11) | Chengjun Chen | submitted | double free if panic |
+| 2021-1-12 | rust_poker | [issue/1](https://github.com/kmurf1999/rust_poker/issues/11) | Chengjun Chen | submitted | double free if panic |
+| 2021-4-21 | apres_bindings | [issue/1](https://github.com/quintinfsmith/apres_bindings/issues/1) | Chengjun Chen | fixed | double free if panic |
+| 2021-4-21 | rust-workshop | [issue/1](https://github.com/NikVolf/rust-workshop/issues/1) | Chengjun Chen | submitted | double free if panic |
