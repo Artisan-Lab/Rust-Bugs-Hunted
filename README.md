@@ -18,3 +18,5 @@
 | 2021-1-12 | rust_poker | [issue/1](https://github.com/kmurf1999/rust_poker/issues/11) | Chengjun Chen | submitted | double free if panic |
 | 2021-4-21 | apres_bindings | [issue/1](https://github.com/quintinfsmith/apres_bindings/issues/1) | Chengjun Chen | fixed | double free if panic |
 | 2021-4-21 | rust-workshop | [issue/1](https://github.com/NikVolf/rust-workshop/issues/1) | Chengjun Chen | submitted | double free if panic |
+| 2021-4-21 | rust-webassembly | [issue/5](https://github.com/mrfr0g/rust-webassembly/issues/5) | Chengjun Chen | submitted | double free if panic |
+
